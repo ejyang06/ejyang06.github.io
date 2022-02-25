@@ -34,8 +34,8 @@ How Can We Describe Collaboration Patterns?
 ![Screen Shot 2022-02-24 at 4 25 38 PM](https://user-images.githubusercontent.com/7773586/155630188-3cf70fa9-5b5e-48e8-9acb-0f4e7dd1c5f9.jpg)
 
 Data can be collected 
-• Surveys
-• Other sources
+1. Surveys
+2. Other sources
 
 Collecting Network Data Via Survey
 ![Screen Shot 2022-02-24 at 4 25 38 PM](https://user-images.githubusercontent.com/7773586/155630353-834d131f-6e2c-4489-9e73-33adcc0cc1b2.jpg)
@@ -43,39 +43,34 @@ Collecting Network Data Via Survey
 Process
 ![Screen Shot 2022-02-24 at 4 28 31 PM](https://user-images.githubusercontent.com/7773586/155630431-7b1e586b-9d50-4f3b-8ebc-a687958889cb.jpg)
 
-Method 1: Collecting Network Data via Surveys: Some Issues
 
+*Collecting Network Data via Surveys: Some Issues
 PROS:
-• Customized, detailed information from target sample
+- Customized, detailed information from target sample
 CONS:
-• High response rates are critical
-• Network cannot be too large
-• Survey cannot be too long
-• Questions must be worded and interpreted with care
-• Confidentiality is critical
-• Relatively costly method of data collection
+- High response rates are critical
+- Network cannot be too large
+- Survey cannot be too long
+- Questions must be worded and interpreted with care
+- Confidentiality is critical
+- Relatively costly method of data collection
 
-Method 2: Collecting Network Data from Other Sources
-• Big Data:
-• interactions via email, phone calls, computer conferencing, bulletin
-boards, social media, etc.
-• Archival Records:
-• corporate databases - e.g. info on shared project assignments, work
-histories, event attendance
-• public databases - e.g. info on co-patenting, co-authorship, co-citations
-• Fieldwork:
-• observations, diaries, electronic tags, etc.
+*Collecting Network Data from Other Sources
+- Big Data: interactions via email, phone calls, computer conferencing, bulletin boards, social media, etc.
+- Archival Records: corporate databases - e.g. info on shared project assignments, work histories, event attendance
+- public databases - e.g. info on co-patenting, co-authorship, co-citations
+- Fieldwork: observations, diaries, electronic tags, etc.
 
 Collecting Network Data from Other Sources: Some Issues
 PROS:
-• Information on larger networks may be available
-• May be less invasive
-• May be less expensive
-• May provide more objective measures
+- Information on larger networks may be available
+- May be less invasive
+- May be less expensive
+- May provide more objective measures
 CONS:
-• Privacy concerns
-• What do available measures actually capture?
-• Large datasets can generate statistically significant but unimportant
+- Privacy concerns
+- What do available measures actually capture?
+- Large datasets can generate statistically significant but unimportant
 findings
 
 
@@ -84,7 +79,7 @@ findings
 ![Screen Shot 2022-02-24 at 4 31 27 PM](https://user-images.githubusercontent.com/7773586/155630664-eb2cad95-0aa0-4076-9470-8b0fce6b1ef6.jpg)
 
 Correlational & multivariate analysis
-• Identify relationships between network variables and outcomes
+- Identify relationships between network variables and outcomes
 
 CAUTION!!!There is no one “best” collaboration network for every organization in every situation! 
 To understand what’s best for your particular organization in your particular situation, you’ll need to collect and analyze the data!
