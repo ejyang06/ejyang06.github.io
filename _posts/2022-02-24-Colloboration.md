@@ -45,8 +45,10 @@ Process
 
 
 *Collecting Network Data via Surveys: Some Issues
+
 PROS:
 - Customized, detailed information from target sample
+
 CONS:
 - High response rates are critical
 - Network cannot be too large
@@ -54,6 +56,7 @@ CONS:
 - Questions must be worded and interpreted with care
 - Confidentiality is critical
 - Relatively costly method of data collection
+
 
 *Collecting Network Data from Other Sources
 - Big Data: interactions via email, phone calls, computer conferencing, bulletin boards, social media, etc.
