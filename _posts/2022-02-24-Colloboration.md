@@ -23,6 +23,7 @@ Types of Organizational Networks
   - Trust networks etc.
 
 How Can We Describe Collaboration Patterns?
+
 1. Network size
 2. Network strength
 3. Network range
@@ -65,11 +66,13 @@ CONS:
 - Fieldwork: observations, diaries, electronic tags, etc.
 
 Collecting Network Data from Other Sources: Some Issues
+
 PROS:
 - Information on larger networks may be available
 - May be less invasive
 - May be less expensive
 - May provide more objective measures
+
 CONS:
 - Privacy concerns
 - What do available measures actually capture?
